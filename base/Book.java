@@ -84,4 +84,29 @@ public class Book {
 		return out;
 	}
 	
+	// get-methods for all attributes
+	public String[] getGenre() {
+		return this.genre;
+	}
+	public String getAuthor() {
+		return this.author;
+	}
+	public String getSeries() {
+		return this.series;
+	}
+	public int getVolume() {
+		return this.volume;
+	}
+	public String getTitle() {
+		return this.title;
+	}
+	public String getISBN() {
+		return this.isbn;
+	}
+	public String getPath() {
+		return this.path;
+	}
+	public String[] getTags() {
+		return this.tags;
+	}
 }

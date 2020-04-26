@@ -97,4 +97,33 @@ public class Movie {
 		}
 		return out;
 	}
+	
+	// get-methods for all attributes
+	public String[] getGenre() {
+		return this.genre;
+	}
+	public String getStudio() {
+		return this.studio;
+	}
+	public String getSeries() {
+		return this.series;
+	}
+	public int getVolume() {
+		return this.volume;
+	}
+	public String getTitle() {
+		return this.title;
+	}
+	public String getDirector() {
+		return this.director;
+	}
+	public String[] getActors() {
+		return this.actors;
+	}
+	public String getPath() {
+		return this.path;
+	}
+	public String[] getTags() {
+		return this.tags;
+	}
 }
