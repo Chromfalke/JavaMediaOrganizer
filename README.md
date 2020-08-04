@@ -17,6 +17,7 @@ Eventually a guide might be added to the [wiki](https://github.com/Chromfalke/Ja
   - Videos
   - Pictures
 - view all custom tags to check for any misspelling during creation
+- edit multiple items at once (e.g. delete, change tags)
 - more complex search functionality
   - include/exclude types of media, special tags
   - randomized search with variable constraints
