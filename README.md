@@ -18,6 +18,7 @@ Eventually a guide might be added to the [wiki](https://github.com/Chromfalke/Ja
   - Pictures
 - view all custom tags to check for any misspelling during creation
 - edit multiple items at once (e.g. delete, change tags)
+- define which attributes you want to save for each media type
 - more complex search functionality
   - include/exclude types of media, special tags
   - randomized search with variable constraints
